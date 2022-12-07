@@ -1,0 +1,11 @@
+CMakeLists.txt
+External_GTest.cmake
+!GildedRose.cc
+GildedRose.h
+GildedRoseTextTests.cc
+GildedRoseUnitTests.cc
+Makefile
+README
+run-approval-once.sh
+run-once-cmake.sh
+run-once.sh
